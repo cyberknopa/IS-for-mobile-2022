@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/build/intermediates/res/merged/debug/menu_activity_hello_world.xml.flat",
+        "source": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/res/menu/activity_hello_world.xml"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/build/intermediates/res/merged/debug/drawable-hdpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/res/drawable-hdpi/cat.png"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/build/intermediates/res/merged/debug/drawable-mdpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/res/drawable-mdpi/cat.png"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/res/drawable-xhdpi/cat.png"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/build/intermediates/res/merged/debug/layout_gavrilova.xml.flat",
+        "source": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/res/layout/gavrilova.xml"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/build/intermediates/res/merged/debug/drawable-ldpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/res/drawable-ldpi/cat.png"
+    }
+]

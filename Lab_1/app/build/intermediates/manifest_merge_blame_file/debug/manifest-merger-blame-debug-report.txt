@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="codepath.demos.helloworlddemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:7:5-22:19
+12        android:allowBackup="true"
+12-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:8:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/cat"
+14-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:9:9-37
+15        android:label="@string/app_name"
+15-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:10:9-41
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:11:9-40
+18        <activity
+18-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:12:9-21:20
+19            android:name="codepath.demos.helloworlddemo.N33471_Gavrilova"
+19-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:13:13-74
+20            android:colorMode="wideColorGamut"
+20-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:15:13-47
+21            android:label="Student name" >
+21-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:14:13-41
+22            <intent-filter>
+22-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:16:13-20:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:17:17-69
+23-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:17:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:19:17-77
+25-->/Users/veronikagavrilova/Downloads/android_hello_world-master/app/src/main/AndroidManifest.xml:19:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

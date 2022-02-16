@@ -1,0 +1,4 @@
+codepath/demos/helloworlddemo/N33471_Gavrilova.java
+ codepath.demos.helloworlddemo.N33471_Gavrilova
+codepath/demos/helloworlddemo/BuildConfig.java
+ codepath.demos.helloworlddemo.BuildConfig
