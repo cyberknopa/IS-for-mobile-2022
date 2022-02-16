@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 4.2.2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: QY/KsD+OQJhtyg8gafrT4DzaJ/+Hux1J6Qp/P3ZRVAA=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: L2FDK1gO1PmgLbU8p+gHaP0tbaCmJNBIQ8GciGUPI6w=
+
+Name: classes.dex
+SHA-256-Digest: KfY+2gcxE9lxTFbIATRsFFBx635VKrGs0JlLDYt/dRc=
+
+Name: classes2.dex
+SHA-256-Digest: TYXXU0wWyTAWEnFwNlLUWP29/8v/67hKKWN1rMoVjG0=
+
+Name: res/drawable-hdpi-v4/cat.png
+SHA-256-Digest: vkJocHuOEPjpcRVajkynAoScAuzM5E81nJN8LbFNnJU=
+
+Name: res/drawable-ldpi-v4/cat.png
+SHA-256-Digest: vkJocHuOEPjpcRVajkynAoScAuzM5E81nJN8LbFNnJU=
+
+Name: res/drawable-mdpi-v4/cat.png
+SHA-256-Digest: vkJocHuOEPjpcRVajkynAoScAuzM5E81nJN8LbFNnJU=
+
+Name: res/drawable-xhdpi-v4/cat.png
+SHA-256-Digest: vkJocHuOEPjpcRVajkynAoScAuzM5E81nJN8LbFNnJU=
+
+Name: res/layout/gavrilova.xml
+SHA-256-Digest: I8Ns+2oBWJfFX/eyKYEGd/po8d2DrmRHWl6DITgQG+4=
+
+Name: res/menu/activity_hello_world.xml
+SHA-256-Digest: 9FhbTZJ6+OKgh8Jousik10RqdiHCCkktRvoA2Jh3Jk4=
+
+Name: resources.arsc
+SHA-256-Digest: quV30F+plqi7zhjU7tMoiC3xHID5ByFAPYLi1t4hzco=
+
