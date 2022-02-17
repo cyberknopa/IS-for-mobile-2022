@@ -1,0 +1,7 @@
+codepath.demos.helloworlddemo:style/AppTheme = 0x7f040001
+codepath.demos.helloworlddemo:layout/gavrilova = 0x7f020000
+codepath.demos.helloworlddemo:string/menu_settings = 0x7f030002
+codepath.demos.helloworlddemo:style/AppBaseTheme = 0x7f040000
+codepath.demos.helloworlddemo:string/hello_world = 0x7f030001
+codepath.demos.helloworlddemo:string/app_name = 0x7f030000
+codepath.demos.helloworlddemo:drawable/cat = 0x7f010000

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/build/intermediates/res/merged/debug/layout_gavrilova.xml.flat",
+        "source": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/src/main/res/layout/gavrilova.xml"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/build/intermediates/res/merged/debug/drawable-hdpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/src/main/res/drawable-hdpi/cat.png"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/build/intermediates/res/merged/debug/drawable-xhdpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/src/main/res/drawable-xhdpi/cat.png"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/build/intermediates/res/merged/debug/drawable-ldpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/src/main/res/drawable-ldpi/cat.png"
+    },
+    {
+        "merged": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/build/intermediates/res/merged/debug/drawable-mdpi_cat.png.flat",
+        "source": "/Users/veronikagavrilova/AndroidStudioProjects/Lab_1/app/src/main/res/drawable-mdpi/cat.png"
+    }
+]
